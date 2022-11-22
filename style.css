@@ -1,0 +1,203 @@
+.container-all-itens{
+    display: flex;
+}
+
+.container-general{
+    margin-right: 80px;
+    padding-left: 40px;
+}
+
+.product img{
+    padding: 18px;
+}
+
+.name-product h2{
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+color: #0B1D03;
+}
+
+.product-desc{
+    width: 403px;
+    height: 164px;
+    background-color: #F2F2F2;
+    border-radius: 4px;
+}
+
+.product-text h2{
+    padding-top: -9px;
+    padding-left: 100px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #0B1D03;
+}
+
+.product-text h3{
+    margin-top: 8px;
+    margin-left: -50px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;  
+    color: #0B1D03;
+}
+
+.product-text h4{
+    margin-top: -20px;
+    padding-left: 135px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.04em;
+    color: #A0996C;
+
+}
+
+.text{
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.text h2{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    color: #0B1D03;
+}
+
+.text img{
+    margin-left: 26px;
+    margin-right: 26px;
+}
+
+.inputs{
+    align-items: center;
+}
+
+.delete-button{
+    margin-top: -20px;
+    margin-left: 155px;
+    width: 188px;
+    height: 18px;
+}
+
+.name input{
+    padding-left: 28px;
+    padding-top: 4px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #969696;
+
+    width: 656px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 2px solid #0B1D03;
+    border-radius: 4px;
+}
+
+.number input{
+    padding-left: 28px;
+    padding-top: 4px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #969696;
+
+    margin-top: 24px;
+    width: 656px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 2px solid #0B1D03;
+    border-radius: 4px;
+}
+
+.email input{
+    padding-left: 28px;
+    padding-top: 4px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #969696;
+
+    margin-top: 24px;
+    width: 656px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 2px solid #0B1D03;
+    border-radius: 4px;
+}
+
+.andress input{
+    padding-left: 28px;
+    padding-top: 4px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #969696;
+
+    margin-top: 24px;
+    width: 656px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 2px solid #0B1D03;
+    border-radius: 4px;
+}
+
+.coment textarea{
+    padding-left: 28px;
+    padding-top: 24px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #969696;
+
+    margin-top: 24px;
+    width: 656px;
+    height: 238px;
+    box-sizing: border-box;
+    border: 2px solid #0B1D03;
+    border-radius: 4px;
+}
+
+.button-01{
+    margin-top: 24px;
+    width: 656px;
+    height: 76px;
+    background: #0B1D03;
+    border-radius: 4px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
